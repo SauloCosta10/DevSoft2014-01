@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 if [ $1 = "pwd" ]; then
 	echo "pwd - imprime o nome do diretorio atual"

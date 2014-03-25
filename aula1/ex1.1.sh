@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 mkdir devsoft
 mkdir praticas_desenvolvimento_software
