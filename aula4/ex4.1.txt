@@ -1,0 +1,15 @@
+Classe: Veículo
+Atributos: ID, Lista de Cargas
+Métodos: transporta, entrega, recebe
+
+Classe: Cliente
+Atributos: Endereço
+Métodos: paga
+
+Classe: Carga
+Atributos: ID, Cliente
+Métodos: 
+
+Classe: Coordenação
+Atributos: Lista de Veículos, Lista de Clientes
+Métodos: 
